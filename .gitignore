@@ -1,6 +1,0 @@
-node_modules/
-.env.private
-.env
-.env.*
-!.env.private.example
-db.json
